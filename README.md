@@ -1,6 +1,5 @@
 - 👋 Hi, I am Nikita Soni.
-- 👀 I’m interested in Artificial Intelligence & Machine Learning.
-- 🌱 I’m currently pursuing Postgraduate in Artificial Intelligence & Machine Learning at Lambton college in Toronto.
+- 🌱 I recently earned a Postgraduate certificate in Artificial Intelligence & Machine Learning at Lambton college in Toronto.
 
 
 <!---
